@@ -9391,9 +9391,9 @@ MonoBehaviour:
     - {fileID: 1447832444}
     - {fileID: 1358836242}
     - {fileID: 1799678173}
-  puslingButton: {fileID: 0}
-  muslingButton: {fileID: 0}
-  mislingButton: {fileID: 0}
+  puslingButton: {fileID: 2102218557}
+  muslingButton: {fileID: 779769386}
+  mislingButton: {fileID: 1345969257}
   wantedObject: {fileID: 1870044181}
 --- !u!4 &1213771678
 Transform:
